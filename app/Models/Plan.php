@@ -11,7 +11,6 @@ class Plan extends Model
     protected $primaryKey = 'id';
     public $incrementing = false;
     protected $keyType = 'string';
-    public $timestamps = false;
 
     protected $fillable = [
         'id',
@@ -30,6 +29,8 @@ class Plan extends Model
             'price' => 'decimal:2',
             'highlight' => 'boolean',
             'active' => 'boolean',
+            'created_at' => 'datetime',
+            'updated_at' => 'datetime',
         ];
     }
 

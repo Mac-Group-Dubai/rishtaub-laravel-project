@@ -17,6 +17,8 @@ return new class extends Migration
             $table->boolean('highlight')->nullable()->default(false);
             $table->integer('sort_order')->nullable()->default(0);
             $table->boolean('active')->nullable()->default(true);
+            $table->timestamp('created_at')->nullable()->useCurrent();
+            $table->timestamp('updated_at')->nullable()->useCurrent();
         });
     }
 

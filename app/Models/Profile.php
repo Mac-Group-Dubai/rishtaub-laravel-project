@@ -4,7 +4,6 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Concerns\HasUuids;
 use Illuminate\Database\Eloquent\Model;
-use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 use Illuminate\Database\Eloquent\Relations\HasMany;
 use Illuminate\Database\Eloquent\Relations\HasOne;
@@ -50,11 +49,6 @@ class Profile extends Model
             'updated_at' => 'datetime',
             'plan_activated_at' => 'datetime',
         ];
-    }
-
-    public function planDetails(): BelongsTo
-    {
-        return $this->belongsTo(Plan::class, 'plan');
     }
 
     public function images(): HasMany

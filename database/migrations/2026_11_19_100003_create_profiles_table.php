@@ -13,9 +13,9 @@ return new class extends Migration
             $table->string('first_name')->nullable();
             $table->string('last_name')->nullable();
             $table->string('phone')->nullable();
-            $table->string('gender')->nullable();
+            $table->enum('gender', ['male', 'female', 'other'])->nullable();
             $table->date('dob')->nullable();
-            $table->string('onbehalf')->nullable()->default('self');
+            $table->enum('onbehalf', ['self', 'friend', 'brother', 'sister', 'son', 'daughter'])->nullable()->default('self');
             $table->string('religion')->nullable();
             $table->string('caste')->nullable();
             $table->string('marital_status')->nullable();

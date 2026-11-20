@@ -12,7 +12,7 @@ return new class extends Migration
             $table->uuid('id')->primary();
             $table->uuid('sender_id');
             $table->uuid('receiver_id');
-            $table->string('status')->default('pending');
+            $table->enum('status', ['pending', 'accepted', 'rejected', 'withdrawn'])->default('pending');
             $table->timestamp('acted_at')->nullable();
             $table->timestamp('created_at')->nullable()->useCurrent();
             $table->timestamp('updated_at')->nullable()->useCurrent();
