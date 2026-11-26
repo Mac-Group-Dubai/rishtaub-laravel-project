@@ -1,0 +1,195 @@
+{
+ "plans": [
+  {
+   "id": "default",
+   "name": "Default",
+   "price": 0,
+   "duration": "30 Days",
+   "tagline": "Get started with the basics.",
+   "features": [
+    {
+     "label": "100 Express Interests",
+     "included": true
+    },
+    {
+     "label": "10 Gallery Photo Upload",
+     "included": true
+    },
+    {
+     "label": "10 Contact Info View",
+     "included": true
+    },
+    {
+     "label": "0 Profile Viewer View",
+     "included": true
+    },
+    {
+     "label": "Show Auto Profile Match",
+     "included": true
+    }
+   ]
+  },
+  {
+   "id": "premium-free",
+   "name": "Premium Features, Now Free!",
+   "price": 0,
+   "duration": "90 Days",
+   "tagline": "Full premium access at no cost.",
+   "highlight": true,
+   "features": [
+    {
+     "label": "250 Express Interests",
+     "included": true
+    },
+    {
+     "label": "30 Gallery Photo Upload",
+     "included": true
+    },
+    {
+     "label": "100 Contact Info View",
+     "included": true
+    },
+    {
+     "label": "0 Profile Viewer View",
+     "included": true
+    },
+    {
+     "label": "Show Auto Profile Match",
+     "included": true
+    }
+   ]
+  }
+ ],
+ "blogs": [
+  {
+   "id": 1,
+   "slug": "choosing-a-partner-who-lets-you-grow",
+   "title": "On choosing a partner who lets you grow",
+   "category": "Reflection",
+   "excerpt": "The quietest sign of a good match isn't excitement \u2014 it's the way you breathe more easily around them.",
+   "date": "April 12, 2026",
+   "readTime": "6 min read",
+   "cover": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=800&q=80",
+   "author": {
+    "name": "Fatima Malik",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=80&q=80",
+    "title": "Relationship Counsellor"
+   },
+   "content": "There is a particular kind of stillness that settles over you when you are with the right person. Not the absence of conversation \u2014 but the presence of ease. You don't perform. You don't edit yourself before speaking. You simply are, and that is enough.\n\n## The Myth of the Spark\n\nWe have been taught to look for electricity. For butterflies. For the stomach-drop of early-stage attraction. And while that electricity is real, it is also \u2014 in the long run \u2014 largely irrelevant.\n\nThe question that matters is not *\"Do I feel a spark?\"* but *\"Do I feel safe enough to grow?\"*\n\nA partner who lets you grow is not someone who agrees with everything you say. They are someone who challenges you with curiosity rather than judgment. Who asks the question behind your question. Who holds space for you to change your mind without losing their respect for you.\n\n## What Growth Actually Looks Like\n\nGrowth in a relationship is not dramatic. It doesn't look like a transformation montage. It looks like:\n\n- Reading a book your partner recommended and discovering a part of yourself you didn't know existed.\n- Changing your opinion on something important because of a conversation that felt safe enough to have.\n- Pursuing a dream you'd shelved because someone finally believed it was possible.\n\nThe right partner makes you feel *more yourself* \u2014 not a better version of someone else's idea of you.\n\n## The Practical Question\n\nBefore you commit, ask yourself this: *When I am with this person, do I find myself expanding or contracting?*\n\nExpansion looks like: taking up more space, sharing more openly, trying things you'd been afraid to try. Contraction looks like: shrinking your opinions, editing your ambitions, apologising for who you are.\n\nYou deserve someone who makes the world feel larger. Choose accordingly."
+  },
+  {
+   "id": 2,
+   "slug": "five-questions-before-first-meeting",
+   "title": "Five questions to ask before the first meeting",
+   "category": "Guide",
+   "excerpt": "Move past small talk. These prompts surface values, fears and dreams in the most natural way.",
+   "date": "March 28, 2026",
+   "readTime": "4 min read",
+   "cover": "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?w=800&q=80",
+   "author": {
+    "name": "Sheikh Omar",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=80&q=80",
+    "title": "Marriage Educator"
+   },
+   "content": "The first meeting carries so much weight. Too much, sometimes. You want to make an impression, but you also need to genuinely discover whether this person could be your life partner. These five questions help you do both \u2014 without it feeling like an interview.\n\n## 1. \"What does a peaceful Sunday look like for you?\"\n\nThis question reveals lifestyle compatibility without asking about it directly. Someone who describes a quiet morning with coffee and a book is a different person to someone who describes a hike with friends. Neither is wrong. But knowing early saves months of misalignment.\n\n## 2. \"What is something you believed five years ago that you no longer believe?\"\n\nThis is the growth question. It tells you whether someone has the intellectual honesty to evolve, and the self-awareness to notice when they have. A person who cannot answer this question \u2014 or finds it threatening \u2014 may struggle to grow alongside you.\n\n## 3. \"How does your family handle disagreement?\"\n\nYou are not just marrying a person. You are marrying their family's patterns. Understanding how conflict is handled in their home of origin tells you a great deal about how it will be handled in yours.\n\n## 4. \"What are you most afraid of?\"\n\nVulnerability is the foundation of real intimacy. This question requires courage from both of you. If they answer honestly, you will learn something true. If they deflect, you will also learn something true.\n\n## 5. \"What would your closest friend say is your biggest flaw?\"\n\nSelf-awareness is one of the most underrated qualities in a life partner. Someone who can name their own shortcomings \u2014 not performatively, but with genuine insight \u2014 is someone who is capable of working on them.\n\n## A Final Note\n\nThese questions are not interrogations. Ask them gently, at the right moment, and be willing to answer them yourself. The best conversations are bilateral. Let them see you thinking aloud. It gives them permission to do the same."
+  },
+  {
+   "id": 3,
+   "slug": "what-successful-couples-share",
+   "title": "What our most successful couples share",
+   "category": "Research",
+   "excerpt": "We analysed 800+ matches that led to marriage. Three patterns kept showing up across every story.",
+   "date": "March 03, 2026",
+   "readTime": "8 min read",
+   "cover": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?w=800&q=80",
+   "author": {
+    "name": "RishtaHub Research Team",
+    "avatar": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=80&q=80",
+    "title": "Data & Community Team"
+   },
+   "content": "Over the past eighteen months, we surveyed 847 couples who met on RishtaHub and went on to marry. We asked them about their matching process, their early conversations, their families' involvement, and what they credit for making it work. Three patterns emerged with striking consistency.\n\n## Pattern 1: They messaged within 48 hours of matching\n\nCouples who went on to marry overwhelmingly made contact quickly after matching \u2014 78% within 48 hours, and 91% within a week. Delayed initial contact correlated strongly with the match never progressing.\n\nThe insight here is not that urgency is romantic. It's that prompt contact signals seriousness. When someone matches and disappears for two weeks, it communicates ambivalence \u2014 and ambivalence is not a foundation for marriage.\n\n## Pattern 2: They involved family early\n\nThis surprised us in its clarity. Couples who introduced family members to the process within the first month were 2.3x more likely to reach nikah than those who kept the process entirely private.\n\nThis aligns with something our community already understands intuitively: marriage is not a decision made by two people in isolation. It is a decision made within a web of relationships. Acknowledging that early, rather than hiding from it, removes a significant source of later friction.\n\n## Pattern 3: They had at least one difficult conversation before meeting in person\n\nThe couples who lasted had, in almost every case, navigated at least one genuinely challenging topic before their first in-person meeting \u2014 differing views on living arrangements, financial values, expectations around family involvement, or religiosity.\n\nThis matters because it establishes a precedent: we are people who can disagree and still remain. That precedent, established early, becomes the foundation for every difficult conversation that follows.\n\n## What This Means for You\n\nYou don't need a perfect match. You need a willing one. Someone willing to respond promptly, to involve their family, and to have the hard conversations before things get serious.\n\nLook for willingness. It predicts more than you think."
+  },
+  {
+   "id": 5,
+   "slug": "how-to-write-a-rishta-profile",
+   "title": "How to write a rishta profile that actually works",
+   "category": "Guide",
+   "excerpt": "Most profiles say nothing. Here is how to write one that says everything that matters.",
+   "date": "January 20, 2026",
+   "readTime": "6 min read",
+   "cover": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=800&q=80",
+   "author": {
+    "name": "Bilal Chaudhry",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=80&q=80",
+    "title": "Community Advisor"
+   },
+   "content": "Most matrimonial profiles sound like CVs. Education: check. Profession: check. Height: check. And then \u2014 nothing. No personality. No voice. No reason to choose this person over any other person with the same qualifications.\n\nThe irony is that the people reading your profile are not looking for credentials. They are looking for a person. They want to know what you are actually like, what you care about, and whether they can imagine sharing a life with you.\n\nHere is how to give them that.\n\n## Lead with something true and specific\n\nInstead of: *\"I am a hardworking and family-oriented person.\"*\n\nTry: *\"I am at my happiest at a table with too much food and people I love. My mother's biryani is the standard against which I measure all other biryanis.\"*\n\nThe second version tells you something real. It has warmth. It is memorable.\n\n## Name your values, not your virtues\n\nSaying you are \"honest\" and \"caring\" means nothing \u2014 everyone says that. Instead, describe what those values look like in practice.\n\n*\"I believe in saying difficult things kindly rather than kind things dishonestly.\"*\n\nThat is a value, not a virtue list.\n\n## Be specific about what you are looking for\n\nVague: *\"I am looking for someone who shares my values.\"*\n\nSpecific: *\"I am looking for someone who takes their faith seriously but wears it lightly. Someone who can debate ideas and then laugh about it over chai.\"*\n\nSpecific tells the right people to step forward \u2014 and gives the wrong ones a reason to step back. Both are good outcomes.\n\n## Be honest about your life\n\nIf you live with your family and intend to continue doing so, say it early. If you are not yet ready for an immediate engagement, say that too. Clarity upfront prevents disappointment later, and people who are right for you will not be put off by honesty.\n\n## End with an invitation\n\nClose your profile with something that makes it easy to begin. *\"If any of this sounds familiar, I would genuinely love to hear from you.\"* Simple. Warm. Human.\n\nThat is what a good profile is \u2014 a hand extended toward the right person."
+  },
+  {
+   "id": 6,
+   "slug": "role-of-wali-in-modern-marriage",
+   "title": "The role of the wali in a modern Muslim marriage",
+   "category": "Islamic Guidance",
+   "excerpt": "Tradition and modernity can coexist. Here is how to involve your guardian meaningfully in today's search.",
+   "date": "January 5, 2026",
+   "readTime": "7 min read",
+   "cover": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=800&q=80",
+   "author": {
+    "name": "Sheikh Omar",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=80&q=80",
+    "title": "Marriage Educator"
+   },
+   "content": "The concept of the wali \u2014 the guardian \u2014 is sometimes presented as an obstacle to modern Muslim women finding a spouse on their own terms. In reality, when understood and practised with wisdom, the wali is one of the most protective and empowering elements of the Islamic marriage process.\n\n## What the Wali Is (and Isn't)\n\nThe wali is not a gatekeeper whose job is to prevent marriage. He is a protector whose job is to ensure that any marriage entered into is sound \u2014 that the prospective husband is suitable, that the woman's rights are protected, and that the process is handled with dignity.\n\nThe wali is not a decision-maker in the sense of overriding a woman's consent \u2014 Islamic marriage requires the woman's explicit agreement. The wali is a witness, an advocate, and a safeguard.\n\n## Why This Matters Practically\n\nIn a matrimonial app context, the wali's involvement has several practical benefits.\n\nFirst, it signals seriousness. A man who is unwilling to be known to your family is a man who is not serious about marriage.\n\nSecond, it provides a layer of vetting that you may not be able to do alone. A father or brother who asks direct questions about finances, housing, and intentions can get answers that might take months to surface otherwise.\n\nThird, it protects your emotional investment. Having a trusted person involved means you are not navigating the process \u2014 with all its vulnerabilities \u2014 entirely alone.\n\n## How to Involve Your Wali on RishtaHub\n\nYou don't need to hand over your phone. You can:\n\n- Share profiles with your wali before expressing interest\n- Ask him to be present for or review transcripts of key conversations\n- Involve him at the point when you feel a match is worth pursuing seriously\n\nThe goal is not bureaucratic oversight. It is shared wisdom, applied at the right moments.\n\nTradition and modernity are not opposites. They are tools, and the wise among us learn to use both."
+  }
+ ],
+ "stories": [
+  {
+   "id": 1,
+   "couple": "Fatima & Yusuf",
+   "date": "March 2024",
+   "location": "Dubai, UAE",
+   "quote": "We both were looking for something intentional. RishtaHub's detailed profiles helped us connect over shared values before we even met.",
+   "image": "https://images.unsplash.com/photo-1604017011826-d3b4c23f8914?w=800&q=80"
+  },
+  {
+   "id": 2,
+   "couple": "Aisha & Omar",
+   "date": "January 2024",
+   "location": "London, UK",
+   "quote": "The privacy features were a game changer for me. It felt like a safe space to get to know someone without the usual pressure.",
+   "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=800&q=80"
+  },
+  {
+   "id": 3,
+   "couple": "Nadia & Karim",
+   "date": "November 2023",
+   "location": "Toronto, Canada",
+   "quote": "Finding someone who shares my faith and values felt impossible until RishtaHub. Now we are planning our future together.",
+   "image": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?w=800&q=80"
+  },
+  {
+   "id": 4,
+   "couple": "Sara & Ahmed",
+   "date": "October 2023",
+   "location": "Kuala Lumpur, Malaysia",
+   "quote": "RishtaHub brought us together across continents. We never imagined we'd find our perfect match this way.",
+   "image": "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?w=800&q=80"
+  },
+  {
+   "id": 5,
+   "couple": "Mariam & Hassan",
+   "date": "August 2023",
+   "location": "Cairo, Egypt",
+   "quote": "The process was respectful, private, and dignified \u2014 exactly what we needed to find a halal connection.",
+   "image": "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?w=800&q=80"
+  },
+  {
+   "id": 6,
+   "couple": "Leila & Tariq",
+   "date": "June 2023",
+   "location": "Sydney, Australia",
+   "quote": "We matched on values first, then everything else fell into place. Alhamdulillah for RishtaHub.",
+   "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=800&q=80"
+  }
+ ]
+}
