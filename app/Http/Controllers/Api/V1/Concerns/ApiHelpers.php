@@ -6,10 +6,10 @@ use Illuminate\Http\Request;
 
 trait ApiHelpers
 {
-    // ?per_page=20 (default 15, max 100)
-    protected function perPage(Request $request): int
+    // ?per_page=20 (default 15 unless the live page used another limit, max 100)
+    protected function perPage(Request $request, int $default = 15): int
     {
-        return max(1, min(100, (int) $request->query('per_page', 15)));
+        return max(1, min(100, (int) $request->query('per_page', $default)));
     }
 
     // Routes under /api/v1/admin are named "admin.*"
